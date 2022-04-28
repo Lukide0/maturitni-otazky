@@ -2,12 +2,20 @@
 
 - dříve byly sítě od jednotlivých výrobců nekompatibilní
   - proto se vytvořil jednotný síťový model
+- je to ucelená představa o tom, jak mají být sítě řešeny
+  - nezahrnuje konkrétní protokoly
 - komunikace je rozdělena do několika nezávislých úrovní
   - vrstev
   - každá řeší pouze určité kroky spojené s přenosem info
   - pro svou činnost komunikuje vyšší vrstvou
   - v každé vrstvě se přidávají dopňkové informace
-
+- **služba**
+  - vertikální komunikace
+    - mezi vrstvami
+- **protokol**
+  - horizontální komunikace
+    - mezi stejnými vrstvami
+      - např. transportní-transportní
 ## ISO/OSI
 
 - **ISO**
@@ -33,6 +41,7 @@
 
 ## TCP/IP
 
+- 4 vrstvy
 - místo
   - aplikační, prezenční a relační vrstvy
     - aplikační vrstva
@@ -50,3 +59,10 @@
     - 21 FTP
     - 110 POP3
     - 25 SMTP
+
+## Srovnání
+
+| TCP/IP | ISO/OSI |
+| ------ | ------- |
+| nejdříve vznikaly protokoly | nejdříve vznikaly vrstvy |
+| praktický přístup | teoretický přístup |
