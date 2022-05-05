@@ -1,1 +1,58 @@
 # Kybernetické útoky a hrozby
+
+- **kyberprostor**
+  - prostor v rámci počítačové sítě
+- **kyberkriminalita**
+  - trestné činy v kyberprotoru
+- **hacker**
+  - snaží se najít a využít slabých míst v informačních systémech
+  - typy
+    - white hat (etický hacker)
+      - slabá místa nahlašuje
+      - pomáhá s opravením slabých míst
+    - black hat
+      - bez oprávnění majitele
+      - mají zlé úmysly
+    - gray hat
+      - mix předcházejících
+      - nemají zlé úmysly
+      - nelegální
+      - díry v systémech nahlašují vlastníkovi
+        - někdy žádají o menší částku peněz za opravení této díry
+- Malware
+  - SW, který provádí škodlivou úlohu
+  - mazání dat, poškozování dat, přebírat kontrolu nad systémem
+- Spyware
+  -
+- Phising
+  - podvedení příjemce pomocí
+    - email
+    - sms
+    - ...
+  - nejznámější a nejrozšířenější
+  - spoléhá se na důvěru/blbosti oběti
+  - **člověk je neslabším článkem zabezpečení**
+  - cíl
+    - získání důvěrných informací
+    - stáhnutí malwaru nebo jiného viru
+  - obrana
+    - neposílat důvěryhodné informace
+    - neklikat na neznámé odkazy v emailu
+    - obezřetnost a pozornost
+  - znaky
+    - požadují důvěryhodné informace
+    - předstírají náhlé důležité událost
+      - nutná změna hesla
+      - zaznamenali jsme podezdřelou aktivitu
+      - ...
+- DDoS
+  - přetížení služby
+- Ransomware
+  - zašifrování dat na cílovém zařízením
+    - požadují většinou peněžní částku za odšifrování, které nestane
+- Trojan
+  - SW, který se tváří jako jiný
+- Man-in-the-Middle
+  - útok, kdy útočník se postaví mezi odesílatele a příjemce
+  - útočník poté může zprávy měnit
+- SQL Injection
