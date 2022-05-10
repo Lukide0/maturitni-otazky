@@ -1,1 +1,0 @@
-# Inkrementální (přírůstkový) vývoj
