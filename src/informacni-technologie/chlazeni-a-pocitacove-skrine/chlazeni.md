@@ -54,16 +54,16 @@
   - větráky
 - **pasivní**
   - kovové prvky
+  - heatpipe
+    - využívá nízký bod varu tekutin
+    - rychlá výměna tepla
+    - měděná trubka
+    - nezávislá na gravitační poloze
+    - 200-1000x větší vodivost tepla něz měd
+    - **nedá se opravit**
   - nevýhody
     - velká plocha
     - [velká hustota žebrování](https://interlink-static0.tsbohemia.cz/col-chladic-cpu-thermalright-ultra-120-pasivni-chlazeni_ien64236.jpg) (mnoho tenkých plátů, které chytají vzduch)
-    - heatpipe
-      - využívá nízký bod varu tekutin
-      - rychlá výměna tepla
-      - měděná trubka
-      - nezávislá na gravitační poloze
-      - 200-1000x větší vodivost tepla něz měd
-      - **nedá se opravit**
   - výhody
     - údržba
     - tichost
