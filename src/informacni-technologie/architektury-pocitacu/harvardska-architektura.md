@@ -1,1 +1,0 @@
-# Harvardská architektura
